@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAPX///VI\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 2519
+      },
+      "writtenOn": "2012-01-20T22:37:04Z",
+      "side": 1,
+      "message": "Delete last else...",
+      "revId": "144d3f91e23a8a099f8a06823fd3cf72e8603f2a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
