@@ -16,6 +16,23 @@
       "revId": "5e010854d5b5986e992ea766478f2e92d9de937c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAARX///v8\u003d",
+        "filename": "apversion/apversion.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 2519
+      },
+      "writtenOn": "2012-03-16T21:18:00Z",
+      "side": 1,
+      "message": "It is mandatory to define variables again: fd, read_bytes.",
+      "revId": "5e010854d5b5986e992ea766478f2e92d9de937c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
